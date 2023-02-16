@@ -1,4 +1,4 @@
-var googleFinance = require('google-finance');
+var googleFinance = require("google-finance");
 
 console.log("Started...");
 

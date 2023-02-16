@@ -1,0 +1,25 @@
+{
+  "name": "thomashua",
+  "version": "1.0.0",
+  "description": "personal homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasxhua/thomashua.git"
+  },
+  "keywords": [
+    "homepage"
+  ],
+  "author": "thomasxhua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasxhua/thomashua/issues"
+  },
+  "homepage": "https://github.com/thomasxhua/thomashua#readme",
+  "dependencies": {
+    "google-finance": "^0.1.12"
+  }
+}
