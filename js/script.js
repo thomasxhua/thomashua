@@ -1,6 +1,3 @@
-import { createRequire } from 'module';
-const require = createRequire(import.meta.url);
-
 var googleFinance = require("google-finance");
 
 console.log("Started...");
